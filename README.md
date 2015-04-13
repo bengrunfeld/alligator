@@ -11,3 +11,9 @@ This will clone the repository and download it to your local machine
 ## Usage
 
 To be determined
+
+## Authors
+
+[Maksim](https://github.com/Maksim415)
+
+[Ben](https://github.com/bengrunfeld)
