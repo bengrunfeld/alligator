@@ -18,6 +18,10 @@ To be determined
 
 [Ben](https://github.com/bengrunfeld)
 
-## Story
+## Question 
 
 What do you call an alligator with a GPS?
+
+## Answer
+
+A Mapigator?
