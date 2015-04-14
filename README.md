@@ -25,3 +25,11 @@ What do you call an alligator with a GPS?
 ## Answer
 
 A Mapigator?
+
+## Wrong Aussie 
+
+A navigator :D
+
+## Joke #2
+
+What do you call an alligator that sneaks up and bites you from behind? 
