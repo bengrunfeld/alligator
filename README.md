@@ -17,3 +17,7 @@ To be determined
 [Maksim](https://github.com/Maksim415)
 
 [Ben](https://github.com/bengrunfeld)
+
+## Story
+
+What do you call an alligator with a GPS?
