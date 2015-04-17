@@ -1,9 +1,12 @@
 console.log('Woot!');
 
-## Three_Simple_Ingredients_for_an_EPIC_Party
+// Three_Simple_Ingredients_for_an_EPIC_Party
 
-var x = 2_kegs
-var y = ladies_ladies_and_more_ladies
-var z = Music-->Not_the_shit_your_grandma_lsitens_to
+var x = 2_kegs;
 
-x + y + Z = EPIC_Party
+var y = ladies_ladies_and_more_ladies;
+
+var z = Music-->Not_the_shit_your_grandma_listens_to;
+
+x + y + Z = EPIC_Party;
+
